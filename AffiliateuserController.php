@@ -5,6 +5,8 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
+ 
+ /* Hello Friends My Name is Hardik */
 
 class Ct_SalesRepCoupon_Adminhtml_AffiliateuserController extends Mage_Adminhtml_Controller_Action {
 
